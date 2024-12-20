@@ -1,4 +1,4 @@
-Flask
 matplotlib
+Flask
 requests
 gunicorn
